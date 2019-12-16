@@ -2,7 +2,7 @@
 Agrupamento de classes utilizando K-means em Python
 
 ## Descrição
-Este programa agrupa os [modelos de automóveis](Clustering/data.txt) baseado em seu consumo e emissão de carbono, os resultados são disponibilizados em um arquivo de texto após a execução do programa.
+Este programa agrupa [modelos de automóveis](Clustering/data.txt) baseado em seu consumo e emissão de carbono, os resultados são disponibilizados em um arquivo de texto após a execução do programa.
 O número de classes foi determinado a partir do _[Elbow Method](https://www.scikit-yb.org/en/latest/api/cluster/elbow.html)_.
 
 ## Pré-requisitos
